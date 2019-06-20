@@ -1,11 +1,11 @@
-id,first_name,last_name,user_name,password,time_inserted_d,confirmation_code,contact_email,contact_phone,address,city,country
-1,Wally,Ashfield,washfield0,M8PWcd11sFlK,21/4/2018,cPF4SLoC,washfield0@myspace.com,+33 (113) 585-1696,18152 Duke Avenue,Grenoble,France
-2,Fionna,Balnaves,fbalnaves1,JO5yIO9aqX,25/7/2018,Zq0tvtK9,fbalnaves1@webs.com,+54 (279) 851-0434,02429 Talmadge Avenue,Isla Verde,Argentina
-3,Ulrich,Rumney,urumney2,LqsKmN5iO,16/7/2018,9WcF7hJBZpt,urumney2@redcross.org,+46 (654) 651-2138,389 Chive Way,Mariestad,Sweden
-4,Bronnie,Gorman,bgorman3,DBwNgBba,5/1/2018,ArbgcWTJJ,bgorman3@amazonaws.com,+33 (426) 228-5039,558 Pierstorff Avenue,Nice,France
-5,Daile,Cunnane,dcunnane4,9apVABSKWt,26/5/2018,QMBFbx,dcunnane4@prlog.org,+33 (150) 258-7397,112 Anniversary Park,Paris 17,France
-6,Karalynn,Marjanski,kmarjanski5,ToxIkqzzh,16/4/2018,gdzAEZAV1N,kmarjanski5@nature.com,+54 (499) 693-6297,6510 Hoard Terrace,Maipú,Argentina
-7,Jeffie,Rodrig,jrodrig6,kdtKwaVLvJ,9/11/2018,bOODivHtx,jrodrig6@cornell.edu,+46 (572) 778-5140,5 Texas Point,Hägersten,Sweden
-8,Cherri,Reddoch,creddoch7,4KwT4S1kmRSn,2/5/2018,w1ShMqNIaUW,creddoch7@biblegateway.com,+39 (131) 436-1060,27409 Norway Maple Park,Milano,Italy
-9,Maynord,Slocum,mslocum8,9DKxAGiYUIod,28/1/2018,YNrqL3K2,mslocum8@jugem.jp,+1 (415) 340-5186,40339 Mallory Alley,San Francisco,United States
-10,Gerick,Dillamore,gdillamore9,l2N2XYG2,15/11/2018,J5TwHiUbh6,gdillamore9@webeden.co.uk,+54 (856) 442-2204,0596 Marquette Circle,San Luis del Palmar,Argentina
+id,first_name,last_name,user_name,password,time_inserted_d,confirmation_code,contact_email,contact_phone,address,city,postal_code,country
+1,Kelsy,Ashlin,kashlin0,cguCRptmNGw,8/8/2018,uoN19bp1Jq,kashlin0@pbs.org,+54 (451) 471-2450,3939 Heffernan Center,General Enrique Godoy,8336,Argentina
+2,Tynan,Parcell,tparcell1,r0adwQb,2/7/2018,JGAtH4,tparcell1@nationalgeographic.com,+46 (470) 302-7736,1760 Dottie Circle,Stockholm,103 88,Sweden
+3,Bailey,Skip,bskip2,OFLMNt6jJ08I,2/2/2018,zrCvBqHrEPIy,bskip2@cbslocal.com,+593 (592) 291-0541,9 Caliangt Lane,Baláo,,Ecuador
+4,Emanuele,Stuer,estuer3,gPEgvGCf6,21/6/2018,SFwAZ4EEBl,estuer3@g.co,+46 (317) 495-1102,242 Dawn Place,Skövde,541 33,Sweden
+5,Bettina,Klimuk,bklimuk4,DdeDlW,11/11/2018,NBXhAR6bf66,bklimuk4@liveinternet.ru,+33 (749) 791-5882,3 Katie Pass,Orsay,91851 CEDEX,France
+6,Petrina,Dullard,pdullard5,A5GaBuM8,2/11/2018,ELcE9DWZG,pdullard5@google.it,+46 (924) 718-3712,99714 Hazelcrest Park,Stockholm,103 50,Sweden
+7,Gladys,Gumey,ggumey6,qywWICbs,12/1/2018,g8XaVc8fpZ,ggumey6@psu.edu,+593 (943) 808-1411,1 Birchwood Circle,Huaquillas,,Ecuador
+8,Jeffry,Kiernan,jkiernan7,UbYMxex,11/3/2018,R3Vid1l,jkiernan7@vkontakte.ru,+46 (968) 768-0692,6 Anderson Crossing,Enskededalen,121 32,Sweden
+9,Wandis,Barnwille,wbarnwille8,7hr1KNors4Og,11/2/2018,fAHAzinxNubW,wbarnwille8@wikimedia.org,+1 (505) 121-8274,924 Fairview Pass,Las Cruces,88006,United States
+10,Jerrold,Crosskill,jcrosskill9,LsipKa,13/12/2018,TIKRoNm,jcrosskill9@shareasale.com,+34 (827) 842-4812,30 Bay Terrace,Sant Cugat Del Valles,08190,Spain
