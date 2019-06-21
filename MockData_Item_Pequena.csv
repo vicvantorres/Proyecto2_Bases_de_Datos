@@ -1,4 +1,4 @@
-id,item_name,price,item_photo,description
+id_items,item_name,price,item_photo,description
 1,"Wine - Red, Lurton Merlot De",27.18,abaud0@twitpic.com,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
 2,Longos - Burritos,88.42,efolbig1@google.com.hk,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
 3,Pimento - Canned,88.87,sdominici2@cisco.com,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."

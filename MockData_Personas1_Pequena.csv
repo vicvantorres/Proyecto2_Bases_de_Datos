@@ -1,4 +1,4 @@
-id,first_name,last_name,user_name,password,time_inserted_d,confirmation_code,contact_email,contact_phone,address,city,postal_code,country
+id_personas,first_name,last_name,user_name,password,time_inserted_d,confirmation_code,contact_email,contact_phone,address,city,postal_code,country
 1,Kelsy,Ashlin,kashlin0,cguCRptmNGw,8/8/2018,uoN19bp1Jq,kashlin0@pbs.org,+54 (451) 471-2450,3939 Heffernan Center,General Enrique Godoy,8336,Argentina
 2,Tynan,Parcell,tparcell1,r0adwQb,2/7/2018,JGAtH4,tparcell1@nationalgeographic.com,+46 (470) 302-7736,1760 Dottie Circle,Stockholm,103 88,Sweden
 3,Bailey,Skip,bskip2,OFLMNt6jJ08I,2/2/2018,zrCvBqHrEPIy,bskip2@cbslocal.com,+593 (592) 291-0541,9 Caliangt Lane,Baláo,,Ecuador
