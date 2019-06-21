@@ -1,11 +1,11 @@
-id,city,postal_code,country,address,item
-1,Alejandro Roca,2686,Argentina,Rice - Aborio,Wine - George Duboeuf Rose
-2,Issoudun,36104 CEDEX,France,Sugar - Cubes,Cookie Choc
-3,Goussainville,95697 CEDEX,France,Gingerale - Diet - Schweppes,Cornflakes
-4,Lyon,69424 CEDEX 03,France,Vinegar - Red Wine,Wine - Pinot Noir Pond Haddock
-5,Leipzig,04317,Germany,Oven Mitts - 15 Inch,Breakfast Quesadillas
-6,Senlis,60309 CEDEX,France,"Fish - Artic Char, Cold Smoked",Mince Meat - Filling
-7,Honolulu,96825,United States,"Loaf Pan - 2 Lb, Foil",Galliano
-8,Villa Cañás,2607,Argentina,Island Oasis - Peach Daiquiri,Lemon Balm - Fresh
-9,Halle,06126,Germany,Dawn Professionl Pot And Pan,Salami - Genova
-10,Strasbourg,67029 CEDEX 1,France,Wine - Chablis J Moreau Et Fils,Myers Planters Punch
+id_cities,city,postal_code,country,address
+1,Leksand,793 50,Sweden,620 5th Trail
+2,Paris 02,75080 CEDEX 02,France,74693 Dayton Point
+3,Obernai,67214 CEDEX,France,2065 Monterey Circle
+4,Montluel,01129 CEDEX,France,3 Kenwood Crossing
+5,Genova,16135,Italy,11 Sauthoff Street
+6,Roma,00196,Italy,36 Shopko Center
+7,Täby,183 04,Sweden,54 Kim Trail
+8,Savannah,31416,United States,19513 Macpherson Avenue
+9,Aix-en-Provence,13853 CEDEX 3,France,08262 Sycamore Center
+10,Sveg,842 93,Sweden,38791 Hallows Pass
