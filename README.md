@@ -5,3 +5,5 @@ Paises considerados: France, Sweden, United States, Argentina, Ecuador, United K
 
 Unidades de Medida: https://opentextbc.ca/basickitchenandfoodservicemanagement/chapter/units-of-measurement/
                     https://en.wikibooks.org/wiki/Cookbook:Units_of_measurement#Volume
+         
+Status: https://help.aftership.com/hc/en-us/articles/115008491068-What-does-each-delivery-status-mean-
