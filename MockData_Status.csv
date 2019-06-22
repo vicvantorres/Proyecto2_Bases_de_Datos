@@ -1,0 +1,15 @@
+id,status_name
+1,order created
+2,order placed
+3,items packed
+4,in transit
+5,delivered
+6,waiting 
+7,request received
+8,out for delivery
+9,failed attempt to deliver: will leave a notice and try again
+10,custom hold
+11,returned to sender
+12,expired: item has no tracking information for 30 days since added
+13,pending
+14,shipment on the way
